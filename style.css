@@ -8,6 +8,10 @@
 
 }
 
+#about .sosial-media a {
+	font-size: 2rem;;
+}
+
 footer {
 	background-color: #0099ff;
 }
